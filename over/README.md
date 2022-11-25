@@ -1,6 +1,6 @@
 # over
 
-A new Flutter project.
+over
 
 ## Getting Started
 
