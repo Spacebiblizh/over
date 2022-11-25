@@ -5,9 +5,9 @@
 Pod::Spec.new do |s|
   s.name             = 'over'
   s.version          = '0.0.1'
-  s.summary          = 'A new Flutter project.'
+  s.summary          = 'over Flutter.'
   s.description      = <<-DESC
-A new Flutter project.
+over Flutter.
                        DESC
   s.homepage         = 'http://example.com'
   s.license          = { :file => '../LICENSE' }
